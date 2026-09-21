@@ -8,7 +8,7 @@ local playerGui = player:WaitForChild("PlayerGui")
 local ID_BOLA = "rbxassetid://84861533911481"
 local ID_FUNDO = "rbxassetid://120671511416721"
 local TOM_SCRIPT = "https://rawscripts.net/raw/Universal-Script-Auto-jjs-EB-do-delta-126144"
-local KEY_URL = "https://gist.github.com/COYOTE018/c5e666d427ec7d7ab1ef85e2a7f3c0cb"
+local KEY_URL = "https://gist.githubusercontent.com/COYOTE018/c5e666d427ec7d7ab1ef85e2a7f3c0cb/raw"
 
 local correctKey = nil
 local ok, res = pcall(function() return game:HttpGet(KEY_URL) end)
